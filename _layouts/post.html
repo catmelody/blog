@@ -18,7 +18,7 @@ layout: default
 <span class="categories">
   in categories
   {% for cat in page.categories %}
-  <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+  <a href="{{ site.baseurl }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
   {% endfor %}
 </span>
 {% endif %}
@@ -26,7 +26,7 @@ layout: default
 <span class="tags">
   tagged with 
   {% for tag in page.tags %}
-  <a href="/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
+  <a href="{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
   {% endfor %}
 </span>
 {% endif %}
