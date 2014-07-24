@@ -1,6 +1,5 @@
 baseurl: /blog
 markdown: rdiscount
-permalink: /:year/:month/:title/
 author: catmelody
 pygments: true
 paginate: 24
