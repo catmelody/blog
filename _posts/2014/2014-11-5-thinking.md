@@ -1,4 +1,4 @@
-﻿--- 
+﻿ --- 
 layout: post 
 title: 11月5日
 categories:
@@ -22,7 +22,7 @@ tags:
 ![](/media/pic2014/2014116.jpg)
 >我的微博：[故事的小黄花](http://weibo.com/anqiangirl/)。
 
-萌萌哒。
+
 
 
 
